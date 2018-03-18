@@ -1,0 +1,62 @@
+body {
+  border:20px solid border #bdc3c7;
+  padding: 20px;
+  width: 90%;
+  margin: 20px auto;
+  background: #F0E68C;
+}
+input {
+  border: 3px solid blue;
+}
+.left {
+  float:left;
+  width: 96px;
+  height:96px;
+}
+/* Single-direction drop shadow */
+
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+.about {
+  float: left;
+    background: #EEE8AA;
+}
+.me {
+  float: left;
+  width: 30%;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 8px solid black;
+}
+.skills{
+  float: left;
+  width: 20%;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 8px solid black;
+}
+.hobby{
+  float: left;
+  width: 20%;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 8px solid black;
+}
+.edu{
+  float: right;
+  width: 20%;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 8px solid black;
+  float: clear;
+}
+img {
+  width: 30%;
+  margin: 1%;
+}
+h4 {
+  text-align: center;
+}
