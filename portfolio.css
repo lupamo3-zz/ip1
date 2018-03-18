@@ -4,6 +4,8 @@ body {
   width: 90%;
   margin: 20px auto;
   background: #F0E68C;
+    color: #B22222;
+    font-family: 'Cabin Sketch';
 }
 input {
   border: 3px solid blue;
@@ -54,9 +56,20 @@ hr {
   float: clear;
 }
 img {
-  width: 30%;
+ width: 30%;
   margin: 1%;
 }
-h4 {
+.float{
+float: left;
+width: 25%
+}
+.l{
+  width: 70%;
+  float: right;
+}span{
+  color: #B22222;
+  text-align: center;
+}
+h1{
   text-align: center;
 }
